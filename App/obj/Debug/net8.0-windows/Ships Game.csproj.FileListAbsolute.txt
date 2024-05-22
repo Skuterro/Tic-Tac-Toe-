@@ -1,0 +1,114 @@
+C:\Users\Kacper\Desktop\2rok\C#\Ships Game\Ships Game\bin\Debug\net8.0-windows\database.deps.json
+C:\Users\Kacper\Desktop\2rok\C#\Ships Game\Ships Game\bin\Debug\net8.0-windows\database.runtimeconfig.json
+C:\Users\Kacper\Desktop\2rok\C#\Ships Game\Ships Game\bin\Debug\net8.0-windows\database.exe
+C:\Users\Kacper\Desktop\2rok\C#\Ships Game\Ships Game\bin\Debug\net8.0-windows\Ships Game.exe
+C:\Users\Kacper\Desktop\2rok\C#\Ships Game\Ships Game\bin\Debug\net8.0-windows\Ships Game.deps.json
+C:\Users\Kacper\Desktop\2rok\C#\Ships Game\Ships Game\bin\Debug\net8.0-windows\Ships Game.runtimeconfig.json
+C:\Users\Kacper\Desktop\2rok\C#\Ships Game\Ships Game\bin\Debug\net8.0-windows\Ships Game.dll
+C:\Users\Kacper\Desktop\2rok\C#\Ships Game\Ships Game\bin\Debug\net8.0-windows\Ships Game.pdb
+C:\Users\Kacper\Desktop\2rok\C#\Ships Game\Ships Game\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Kacper\Desktop\2rok\C#\Ships Game\Ships Game\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Kacper\Desktop\2rok\C#\Ships Game\Ships Game\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Kacper\Desktop\2rok\C#\Ships Game\Ships Game\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Kacper\Desktop\2rok\C#\Ships Game\Ships Game\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Kacper\Desktop\2rok\C#\Ships Game\Ships Game\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Kacper\Desktop\2rok\C#\Ships Game\Ships Game\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Kacper\Desktop\2rok\C#\Ships Game\Ships Game\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Kacper\Desktop\2rok\C#\Ships Game\Ships Game\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Kacper\Desktop\2rok\C#\Ships Game\Ships Game\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Kacper\Desktop\2rok\C#\Ships Game\Ships Game\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Kacper\Desktop\2rok\C#\Ships Game\Ships Game\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Kacper\Desktop\2rok\C#\Ships Game\Ships Game\bin\Debug\net8.0-windows\Npgsql.dll
+C:\Users\Kacper\Desktop\2rok\C#\Ships Game\Ships Game\bin\Debug\net8.0-windows\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Kacper\Desktop\2rok\C#\Ships Game\Ships Game\bin\Debug\net8.0-windows\database.dll
+C:\Users\Kacper\Desktop\2rok\C#\Ships Game\Ships Game\bin\Debug\net8.0-windows\database.pdb
+C:\Users\Kacper\Desktop\2rok\C#\Ships Game\Ships Game\obj\Debug\net8.0-windows\Ships Game.csproj.AssemblyReference.cache
+C:\Users\Kacper\Desktop\2rok\C#\Ships Game\Ships Game\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Kacper\Desktop\2rok\C#\Ships Game\Ships Game\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Kacper\Desktop\2rok\C#\Ships Game\Ships Game\obj\Debug\net8.0-windows\Ships Game_MarkupCompile.cache
+C:\Users\Kacper\Desktop\2rok\C#\Ships Game\Ships Game\obj\Debug\net8.0-windows\Ships Game_MarkupCompile.lref
+C:\Users\Kacper\Desktop\2rok\C#\Ships Game\Ships Game\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Kacper\Desktop\2rok\C#\Ships Game\Ships Game\obj\Debug\net8.0-windows\Ships Game.g.resources
+C:\Users\Kacper\Desktop\2rok\C#\Ships Game\Ships Game\obj\Debug\net8.0-windows\Ships Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kacper\Desktop\2rok\C#\Ships Game\Ships Game\obj\Debug\net8.0-windows\Ships Game.AssemblyInfoInputs.cache
+C:\Users\Kacper\Desktop\2rok\C#\Ships Game\Ships Game\obj\Debug\net8.0-windows\Ships Game.AssemblyInfo.cs
+C:\Users\Kacper\Desktop\2rok\C#\Ships Game\Ships Game\obj\Debug\net8.0-windows\Ships Game.csproj.CoreCompileInputs.cache
+C:\Users\Kacper\Desktop\2rok\C#\Ships Game\Ships Game\obj\Debug\net8.0-windows\Ships Game.csproj.Up2Date
+C:\Users\Kacper\Desktop\2rok\C#\Ships Game\Ships Game\obj\Debug\net8.0-windows\Ships Game.dll
+C:\Users\Kacper\Desktop\2rok\C#\Ships Game\Ships Game\obj\Debug\net8.0-windows\refint\Ships Game.dll
+C:\Users\Kacper\Desktop\2rok\C#\Ships Game\Ships Game\obj\Debug\net8.0-windows\Ships Game.pdb
+C:\Users\Kacper\Desktop\2rok\C#\Ships Game\Ships Game\obj\Debug\net8.0-windows\Ships Game.genruntimeconfig.cache
+C:\Users\Kacper\Desktop\2rok\C#\Ships Game\Ships Game\obj\Debug\net8.0-windows\ref\Ships Game.dll
+C:\Users\Kacper\Desktop\2rok\C#\Ships Game\Ships Game\obj\Debug\net8.0-windows\Ships Game.sourcelink.json
+C:\Users\Kacper\Desktop\2rok\C#\Ships Game\Ships Game\obj\Debug\net8.0-windows\UserControl1.g.cs
+C:\Users\Kacper\Desktop\2rok\C#\Ships Game\Ships Game\obj\Debug\net8.0-windows\UserControl1.baml
+C:\Users\Kacper\Desktop\2rok\C#\Ships Game\Ships Game\obj\Debug\net8.0-windows\Leaderboard.g.cs
+C:\Users\Kacper\Desktop\2rok\C#\Ships Game\Ships Game\obj\Debug\net8.0-windows\Leaderboard.baml
+C:\Users\Kacper\Desktop\2rok\C#\Ships Game\Ships-game\Ships Game\bin\Debug\net8.0-windows\client.deps.json
+C:\Users\Kacper\Desktop\2rok\C#\Ships Game\Ships-game\Ships Game\bin\Debug\net8.0-windows\client.runtimeconfig.json
+C:\Users\Kacper\Desktop\2rok\C#\Ships Game\Ships-game\Ships Game\bin\Debug\net8.0-windows\client.exe
+C:\Users\Kacper\Desktop\2rok\C#\Ships Game\Ships-game\Ships Game\bin\Debug\net8.0-windows\database.deps.json
+C:\Users\Kacper\Desktop\2rok\C#\Ships Game\Ships-game\Ships Game\bin\Debug\net8.0-windows\database.runtimeconfig.json
+C:\Users\Kacper\Desktop\2rok\C#\Ships Game\Ships-game\Ships Game\bin\Debug\net8.0-windows\database.exe
+C:\Users\Kacper\Desktop\2rok\C#\Ships Game\Ships-game\Ships Game\bin\Debug\net8.0-windows\Ships Game.exe
+C:\Users\Kacper\Desktop\2rok\C#\Ships Game\Ships-game\Ships Game\bin\Debug\net8.0-windows\Ships Game.deps.json
+C:\Users\Kacper\Desktop\2rok\C#\Ships Game\Ships-game\Ships Game\bin\Debug\net8.0-windows\Ships Game.runtimeconfig.json
+C:\Users\Kacper\Desktop\2rok\C#\Ships Game\Ships-game\Ships Game\bin\Debug\net8.0-windows\Ships Game.dll
+C:\Users\Kacper\Desktop\2rok\C#\Ships Game\Ships-game\Ships Game\bin\Debug\net8.0-windows\Ships Game.pdb
+C:\Users\Kacper\Desktop\2rok\C#\Ships Game\Ships-game\Ships Game\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Kacper\Desktop\2rok\C#\Ships Game\Ships-game\Ships Game\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Kacper\Desktop\2rok\C#\Ships Game\Ships-game\Ships Game\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Kacper\Desktop\2rok\C#\Ships Game\Ships-game\Ships Game\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Kacper\Desktop\2rok\C#\Ships Game\Ships-game\Ships Game\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Kacper\Desktop\2rok\C#\Ships Game\Ships-game\Ships Game\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Kacper\Desktop\2rok\C#\Ships Game\Ships-game\Ships Game\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Kacper\Desktop\2rok\C#\Ships Game\Ships-game\Ships Game\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Kacper\Desktop\2rok\C#\Ships Game\Ships-game\Ships Game\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Kacper\Desktop\2rok\C#\Ships Game\Ships-game\Ships Game\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Kacper\Desktop\2rok\C#\Ships Game\Ships-game\Ships Game\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Kacper\Desktop\2rok\C#\Ships Game\Ships-game\Ships Game\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Kacper\Desktop\2rok\C#\Ships Game\Ships-game\Ships Game\bin\Debug\net8.0-windows\Npgsql.dll
+C:\Users\Kacper\Desktop\2rok\C#\Ships Game\Ships-game\Ships Game\bin\Debug\net8.0-windows\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Kacper\Desktop\2rok\C#\Ships Game\Ships-game\Ships Game\bin\Debug\net8.0-windows\client.dll
+C:\Users\Kacper\Desktop\2rok\C#\Ships Game\Ships-game\Ships Game\bin\Debug\net8.0-windows\database.dll
+C:\Users\Kacper\Desktop\2rok\C#\Ships Game\Ships-game\Ships Game\bin\Debug\net8.0-windows\client.pdb
+C:\Users\Kacper\Desktop\2rok\C#\Ships Game\Ships-game\Ships Game\bin\Debug\net8.0-windows\database.pdb
+C:\Users\Kacper\Desktop\2rok\C#\Ships Game\Ships-game\Ships Game\obj\Debug\net8.0-windows\Ships Game.csproj.AssemblyReference.cache
+C:\Users\Kacper\Desktop\2rok\C#\Ships Game\Ships-game\Ships Game\obj\Debug\net8.0-windows\Leaderboard.g.cs
+C:\Users\Kacper\Desktop\2rok\C#\Ships Game\Ships-game\Ships Game\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Kacper\Desktop\2rok\C#\Ships Game\Ships-game\Ships Game\obj\Debug\net8.0-windows\UserControl1.g.cs
+C:\Users\Kacper\Desktop\2rok\C#\Ships Game\Ships-game\Ships Game\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Kacper\Desktop\2rok\C#\Ships Game\Ships-game\Ships Game\obj\Debug\net8.0-windows\Ships Game_MarkupCompile.cache
+C:\Users\Kacper\Desktop\2rok\C#\Ships Game\Ships-game\Ships Game\obj\Debug\net8.0-windows\Ships Game_MarkupCompile.lref
+C:\Users\Kacper\Desktop\2rok\C#\Ships Game\Ships-game\Ships Game\obj\Debug\net8.0-windows\Leaderboard.baml
+C:\Users\Kacper\Desktop\2rok\C#\Ships Game\Ships-game\Ships Game\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Kacper\Desktop\2rok\C#\Ships Game\Ships-game\Ships Game\obj\Debug\net8.0-windows\UserControl1.baml
+C:\Users\Kacper\Desktop\2rok\C#\Ships Game\Ships-game\Ships Game\obj\Debug\net8.0-windows\Ships Game.g.resources
+C:\Users\Kacper\Desktop\2rok\C#\Ships Game\Ships-game\Ships Game\obj\Debug\net8.0-windows\Ships Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kacper\Desktop\2rok\C#\Ships Game\Ships-game\Ships Game\obj\Debug\net8.0-windows\Ships Game.AssemblyInfoInputs.cache
+C:\Users\Kacper\Desktop\2rok\C#\Ships Game\Ships-game\Ships Game\obj\Debug\net8.0-windows\Ships Game.AssemblyInfo.cs
+C:\Users\Kacper\Desktop\2rok\C#\Ships Game\Ships-game\Ships Game\obj\Debug\net8.0-windows\Ships Game.csproj.CoreCompileInputs.cache
+C:\Users\Kacper\Desktop\2rok\C#\Ships Game\Ships-game\Ships Game\obj\Debug\net8.0-windows\Ships Game.sourcelink.json
+C:\Users\Kacper\Desktop\2rok\C#\Ships Game\Ships-game\Ships Game\obj\Debug\net8.0-windows\Ships Game.csproj.Up2Date
+C:\Users\Kacper\Desktop\2rok\C#\Ships Game\Ships-game\Ships Game\obj\Debug\net8.0-windows\Ships Game.dll
+C:\Users\Kacper\Desktop\2rok\C#\Ships Game\Ships-game\Ships Game\obj\Debug\net8.0-windows\refint\Ships Game.dll
+C:\Users\Kacper\Desktop\2rok\C#\Ships Game\Ships-game\Ships Game\obj\Debug\net8.0-windows\Ships Game.pdb
+C:\Users\Kacper\Desktop\2rok\C#\Ships Game\Ships-game\Ships Game\obj\Debug\net8.0-windows\Ships Game.genruntimeconfig.cache
+C:\Users\Kacper\Desktop\2rok\C#\Ships Game\Ships-game\Ships Game\obj\Debug\net8.0-windows\ref\Ships Game.dll
+C:\Users\Kacper\Desktop\2rok\C#\Ships Game\Ships Game\obj\Debug\net8.0-windows\UserControl2.baml
+C:\Users\Kacper\Desktop\2rok\C#\Ships Game\Ships Game\obj\Debug\net8.0-windows\UserControl2.g.cs
+C:\Users\Kacper\Desktop\2rok\C#\Ships Game\Ships Game\obj\Debug\net8.0-windows\test.g.cs
+C:\Users\Kacper\Desktop\2rok\C#\Ships Game\Ships Game\obj\Debug\net8.0-windows\test.baml
+C:\Users\Kacper\Desktop\2rok\C#\Ships Game\Ships Game\obj\Debug\net8.0-windows\WaitingFor2ndPlayer.g.cs
+C:\Users\Kacper\Desktop\2rok\C#\Ships Game\Ships Game\obj\Debug\net8.0-windows\WaitingFor2ndPlayer.baml
+C:\Users\Kacper\Desktop\2rok\C#\Ships Game\Ships Game\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\Kacper\Desktop\2rok\C#\Ships Game\Ships Game\obj\Debug\net8.0-windows\Board.g.cs
+C:\Users\Kacper\Desktop\2rok\C#\Ships Game\Ships Game\obj\Debug\net8.0-windows\Board.baml
+C:\Users\Kacper\Desktop\2rok\C#\Ships Game\Ships Game\obj\Debug\net8.0-windows\Loser.g.cs
+C:\Users\Kacper\Desktop\2rok\C#\Ships Game\Ships Game\obj\Debug\net8.0-windows\Winner.g.cs
+C:\Users\Kacper\Desktop\2rok\C#\Ships Game\Ships Game\obj\Debug\net8.0-windows\Loser.baml
+C:\Users\Kacper\Desktop\2rok\C#\Ships Game\Ships Game\obj\Debug\net8.0-windows\Winner.baml
+C:\Users\Kacper\Desktop\2rok\C#\Ships Game\Ships Game\obj\Debug\net8.0-windows\Ships_Game.Resource.resources
+C:\Users\Kacper\Desktop\2rok\C#\Ships Game\Ships Game\obj\Debug\net8.0-windows\Ships Game.csproj.GenerateResource.cache
+C:\Users\Kacper\Desktop\2rok\C#\Ships Game\Ships Game\obj\Debug\net8.0-windows\Draw.g.cs
+C:\Users\Kacper\Desktop\2rok\C#\Ships Game\Ships Game\obj\Debug\net8.0-windows\Draw.baml

@@ -1,0 +1,45 @@
+﻿<UserControl x:Class="Ships_Game.UserControl1"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Ships_Game"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+    <Grid Background="LightGray">
+        <Button x:Name="Leaderboard_button" Content="Leaderboard" Background="White" HorizontalAlignment="Left" Margin="176,284,0,0" VerticalAlignment="Top" Width="428" Height="75" Click="Leaderboard_button_Click" FontSize="20" FontWeight="Bold"/>
+        <Button Content="Create game" Background="White" HorizontalAlignment="Left" Margin="176,84,0,0" VerticalAlignment="Top" Width="428" Height="75" Click="CreateRoom_Button_Click" FontSize="20" FontWeight="Bold"/>
+        <Button Content="Find game" Background="White" HorizontalAlignment="Left" Margin="176,184,0,0" VerticalAlignment="Top" Width="428" Height="75" Click="ShowRooms_Button_Click" FontSize="20" FontWeight="Bold"/>
+        <Image Margin="632,23,70,329" Source="/image2.png" Stretch="Fill" RenderTransformOrigin="0.5,0.5">
+            <Image.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-8.226"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Image.RenderTransform>
+        </Image>
+        <Image Margin="70,321,632,37" Source="/image2.png" Stretch="Fill" RenderTransformOrigin="0.5,0.5">
+            <Image.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="22.082"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Image.RenderTransform>
+        </Image>
+        <Image Margin="65,28,629,328" Source="/image3.png" Stretch="Fill"/>
+        <Image Margin="616,295,78,46" Source="/image3.png" Stretch="Fill" RenderTransformOrigin="0.5,0.5">
+            <Image.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-133.786"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Image.RenderTransform>
+        </Image>
+    </Grid>
+</UserControl>

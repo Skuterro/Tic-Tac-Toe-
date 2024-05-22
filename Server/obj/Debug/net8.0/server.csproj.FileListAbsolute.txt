@@ -1,0 +1,73 @@
+C:\Users\Kacper\Desktop\2rok\C#\Ships Game\server\bin\Debug\net8.0\server.exe
+C:\Users\Kacper\Desktop\2rok\C#\Ships Game\server\bin\Debug\net8.0\server.deps.json
+C:\Users\Kacper\Desktop\2rok\C#\Ships Game\server\bin\Debug\net8.0\server.runtimeconfig.json
+C:\Users\Kacper\Desktop\2rok\C#\Ships Game\server\bin\Debug\net8.0\server.dll
+C:\Users\Kacper\Desktop\2rok\C#\Ships Game\server\bin\Debug\net8.0\server.pdb
+C:\Users\Kacper\Desktop\2rok\C#\Ships Game\server\obj\Debug\net8.0\server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kacper\Desktop\2rok\C#\Ships Game\server\obj\Debug\net8.0\server.AssemblyInfoInputs.cache
+C:\Users\Kacper\Desktop\2rok\C#\Ships Game\server\obj\Debug\net8.0\server.AssemblyInfo.cs
+C:\Users\Kacper\Desktop\2rok\C#\Ships Game\server\obj\Debug\net8.0\server.csproj.CoreCompileInputs.cache
+C:\Users\Kacper\Desktop\2rok\C#\Ships Game\server\obj\Debug\net8.0\server.sourcelink.json
+C:\Users\Kacper\Desktop\2rok\C#\Ships Game\server\obj\Debug\net8.0\server.dll
+C:\Users\Kacper\Desktop\2rok\C#\Ships Game\server\obj\Debug\net8.0\refint\server.dll
+C:\Users\Kacper\Desktop\2rok\C#\Ships Game\server\obj\Debug\net8.0\server.pdb
+C:\Users\Kacper\Desktop\2rok\C#\Ships Game\server\obj\Debug\net8.0\server.genruntimeconfig.cache
+C:\Users\Kacper\Desktop\2rok\C#\Ships Game\server\obj\Debug\net8.0\ref\server.dll
+C:\Users\Kacper\Desktop\2rok\C#\Ships Game\server\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Kacper\Desktop\2rok\C#\Ships Game\server\obj\Debug\net8.0\server.csproj.AssemblyReference.cache
+C:\Users\Kacper\Desktop\2rok\C#\Ships Game\server\obj\Debug\net8.0\server.csproj.Up2Date
+C:\Users\Kacper\Desktop\2rok\C#\Ships Game\server\bin\Debug\net8.0\database.deps.json
+C:\Users\Kacper\Desktop\2rok\C#\Ships Game\server\bin\Debug\net8.0\database.runtimeconfig.json
+C:\Users\Kacper\Desktop\2rok\C#\Ships Game\server\bin\Debug\net8.0\database.exe
+C:\Users\Kacper\Desktop\2rok\C#\Ships Game\server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Kacper\Desktop\2rok\C#\Ships Game\server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Kacper\Desktop\2rok\C#\Ships Game\server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Kacper\Desktop\2rok\C#\Ships Game\server\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Kacper\Desktop\2rok\C#\Ships Game\server\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Kacper\Desktop\2rok\C#\Ships Game\server\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Kacper\Desktop\2rok\C#\Ships Game\server\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Kacper\Desktop\2rok\C#\Ships Game\server\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Kacper\Desktop\2rok\C#\Ships Game\server\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\Kacper\Desktop\2rok\C#\Ships Game\server\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Kacper\Desktop\2rok\C#\Ships Game\server\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Kacper\Desktop\2rok\C#\Ships Game\server\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Kacper\Desktop\2rok\C#\Ships Game\server\bin\Debug\net8.0\Npgsql.dll
+C:\Users\Kacper\Desktop\2rok\C#\Ships Game\server\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Kacper\Desktop\2rok\C#\Ships Game\server\bin\Debug\net8.0\database.dll
+C:\Users\Kacper\Desktop\2rok\C#\Ships Game\server\bin\Debug\net8.0\database.pdb
+C:\Users\Kacper\Desktop\2rok\C#\Tic Tac Toe\Server\bin\Debug\net8.0\database.deps.json
+C:\Users\Kacper\Desktop\2rok\C#\Tic Tac Toe\Server\bin\Debug\net8.0\database.runtimeconfig.json
+C:\Users\Kacper\Desktop\2rok\C#\Tic Tac Toe\Server\bin\Debug\net8.0\database.exe
+C:\Users\Kacper\Desktop\2rok\C#\Tic Tac Toe\Server\bin\Debug\net8.0\server.exe
+C:\Users\Kacper\Desktop\2rok\C#\Tic Tac Toe\Server\bin\Debug\net8.0\server.deps.json
+C:\Users\Kacper\Desktop\2rok\C#\Tic Tac Toe\Server\bin\Debug\net8.0\server.runtimeconfig.json
+C:\Users\Kacper\Desktop\2rok\C#\Tic Tac Toe\Server\bin\Debug\net8.0\server.dll
+C:\Users\Kacper\Desktop\2rok\C#\Tic Tac Toe\Server\bin\Debug\net8.0\server.pdb
+C:\Users\Kacper\Desktop\2rok\C#\Tic Tac Toe\Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Kacper\Desktop\2rok\C#\Tic Tac Toe\Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Kacper\Desktop\2rok\C#\Tic Tac Toe\Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Kacper\Desktop\2rok\C#\Tic Tac Toe\Server\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Kacper\Desktop\2rok\C#\Tic Tac Toe\Server\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Kacper\Desktop\2rok\C#\Tic Tac Toe\Server\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Kacper\Desktop\2rok\C#\Tic Tac Toe\Server\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Kacper\Desktop\2rok\C#\Tic Tac Toe\Server\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Kacper\Desktop\2rok\C#\Tic Tac Toe\Server\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\Kacper\Desktop\2rok\C#\Tic Tac Toe\Server\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Kacper\Desktop\2rok\C#\Tic Tac Toe\Server\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Kacper\Desktop\2rok\C#\Tic Tac Toe\Server\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Kacper\Desktop\2rok\C#\Tic Tac Toe\Server\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Kacper\Desktop\2rok\C#\Tic Tac Toe\Server\bin\Debug\net8.0\Npgsql.dll
+C:\Users\Kacper\Desktop\2rok\C#\Tic Tac Toe\Server\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Kacper\Desktop\2rok\C#\Tic Tac Toe\Server\bin\Debug\net8.0\database.dll
+C:\Users\Kacper\Desktop\2rok\C#\Tic Tac Toe\Server\bin\Debug\net8.0\database.pdb
+C:\Users\Kacper\Desktop\2rok\C#\Tic Tac Toe\Server\obj\Debug\net8.0\server.csproj.AssemblyReference.cache
+C:\Users\Kacper\Desktop\2rok\C#\Tic Tac Toe\Server\obj\Debug\net8.0\server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kacper\Desktop\2rok\C#\Tic Tac Toe\Server\obj\Debug\net8.0\server.AssemblyInfoInputs.cache
+C:\Users\Kacper\Desktop\2rok\C#\Tic Tac Toe\Server\obj\Debug\net8.0\server.AssemblyInfo.cs
+C:\Users\Kacper\Desktop\2rok\C#\Tic Tac Toe\Server\obj\Debug\net8.0\server.csproj.CoreCompileInputs.cache
+C:\Users\Kacper\Desktop\2rok\C#\Tic Tac Toe\Server\obj\Debug\net8.0\server.csproj.Up2Date
+C:\Users\Kacper\Desktop\2rok\C#\Tic Tac Toe\Server\obj\Debug\net8.0\server.dll
+C:\Users\Kacper\Desktop\2rok\C#\Tic Tac Toe\Server\obj\Debug\net8.0\refint\server.dll
+C:\Users\Kacper\Desktop\2rok\C#\Tic Tac Toe\Server\obj\Debug\net8.0\server.pdb
+C:\Users\Kacper\Desktop\2rok\C#\Tic Tac Toe\Server\obj\Debug\net8.0\server.genruntimeconfig.cache
+C:\Users\Kacper\Desktop\2rok\C#\Tic Tac Toe\Server\obj\Debug\net8.0\ref\server.dll

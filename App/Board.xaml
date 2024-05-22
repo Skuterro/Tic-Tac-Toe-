@@ -1,0 +1,33 @@
+﻿<UserControl x:Class="Ships_Game.Board" Background="LightGray"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Ships_Game"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+    <Grid x:Name="board"  Width="700" Height="400">
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+
+        <Button Name="btn1" Content="" FontSize="100" Grid.Row="0" Grid.Column="0" Click="Button_Click" IsEnabled="True" Tag="1" FontWeight="Bold" BorderBrush="Black" BorderThickness="3" Foreground="WhiteSmoke"/>
+        <Button Name="btn2" Content="" FontSize="100" Grid.Row="0" Grid.Column="1" Click="Button_Click" IsEnabled="True" Tag="2" FontWeight="Bold" BorderBrush="Black" BorderThickness="3" Foreground="WhiteSmoke"/>
+        <Button Name="btn3" Content="" FontSize="100" Grid.Row="0" Grid.Column="2" Click="Button_Click" IsEnabled="True" Tag="3" FontWeight="Bold" BorderBrush="Black" BorderThickness="3" Foreground="WhiteSmoke"/>
+
+        <Button Name="btn4" Content="" FontSize="100" Grid.Row="1" Grid.Column="0" Click="Button_Click" IsEnabled="True" Tag="4" FontWeight="Bold" BorderBrush="Black" BorderThickness="3" Foreground="WhiteSmoke"/>
+        <Button Name="btn5" Content="" FontSize="100" Grid.Row="1" Grid.Column="1" Click="Button_Click" IsEnabled="True" Tag="5" FontWeight="Bold" BorderBrush="Black" BorderThickness="3" Foreground="WhiteSmoke"/>
+        <Button Name="btn6" Content="" FontSize="100" Grid.Row="1" Grid.Column="2" Click="Button_Click" IsEnabled="True" Tag="6" FontWeight="Bold" BorderBrush="Black" BorderThickness="3" Foreground="WhiteSmoke"/>
+
+        <Button Name="btn7" Content="" FontSize="100" Grid.Row="2" Grid.Column="0" Click="Button_Click" IsEnabled="True" Tag="7" FontWeight="Bold" BorderBrush="Black" BorderThickness="3" Foreground="WhiteSmoke"/>
+        <Button Name="btn8" Content="" FontSize="100" Grid.Row="2" Grid.Column="1" Click="Button_Click" IsEnabled="True" Tag="8" FontWeight="Bold" BorderBrush="Black" BorderThickness="3" Foreground="WhiteSmoke"/>
+        <Button Name="btn9" Content="" FontSize="100" Grid.Row="2" Grid.Column="2" Click="Button_Click" IsEnabled="True" Tag="9" FontWeight="Bold" BorderBrush="Black" BorderThickness="3" Foreground="WhiteSmoke"/>
+    </Grid>
+</UserControl>

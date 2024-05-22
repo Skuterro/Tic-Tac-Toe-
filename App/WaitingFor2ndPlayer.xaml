@@ -1,0 +1,45 @@
+﻿<UserControl x:Class="Ships_Game.WaitingFor2ndPlayer"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Ships_Game"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+    <Grid Background="LightGray">
+        <TextBlock x:Name="textBlock" HorizontalAlignment="Center" TextWrapping="Wrap" VerticalAlignment="Center" Height="121" Width="604" TextAlignment="Center" FontSize="48" FontFamily="Verdana" FontWeight="Bold" Text="Waiting for second player"/>
+        <Image Margin="77,42,625,319" Source="/image2.png" Stretch="Fill" RenderTransformOrigin="0.5,0.5">
+            <Image.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-15.221"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Image.RenderTransform>
+        </Image>
+        <Image Margin="591,303,109,59" Source="/image2.png" Stretch="Fill" RenderTransformOrigin="0.5,0.5">
+            <Image.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="23.603"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Image.RenderTransform>
+        </Image>
+        <Image Margin="69,322,625,31" Source="/image3.png" Stretch="Fill"/>
+        <Image Margin="500,72,204,289" Source="/image3.png" Stretch="Fill" RenderTransformOrigin="0.5,0.5">
+            <Image.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="168.195"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Image.RenderTransform>
+        </Image>
+        <TextBlock x:Name="Dots" HorizontalAlignment="Left" Margin="495,202,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="60" Width="123" FontSize="48" FontWeight="Bold"><Run Text="."/><Run Language="pl-pl" Text=" "/><Run Text="."/><Run Language="pl-pl" Text=" "/><Run Text="."/></TextBlock>
+
+    </Grid>
+</UserControl>

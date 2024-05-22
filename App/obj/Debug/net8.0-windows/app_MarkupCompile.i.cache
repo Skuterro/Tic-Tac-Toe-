@@ -1,0 +1,20 @@
+﻿app
+1.0.0.0
+
+winexe
+C#
+.cs
+C:\Users\Kacper\Desktop\2rok\C#\Tic Tac Toe\App\obj\Debug\net8.0-windows\
+Ships_Game
+none
+false
+TRACE;DEBUG;NET;NET8_0;NETCOREAPP
+C:\Users\Kacper\Desktop\2rok\C#\Tic Tac Toe\App\App.xaml
+10-1848241549
+
+17-980530649
+214656019276
+Board.xaml;Draw.xaml;Leaderboard.xaml;Loser.xaml;MainWindow.xaml;test.xaml;UserControl1.xaml;UserControl2.xaml;WaitingFor2ndPlayer.xaml;Winner.xaml;
+
+True
+

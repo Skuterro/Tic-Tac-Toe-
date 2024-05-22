@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kacper\\Desktop\\2rok\\C#\\Tic Tac Toe\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7CD00011-16A6-493B-A205-B298EB097383}|App\\app.csproj|c:\\users\\kacper\\desktop\\2rok\\c#\\tic tac toe\\app\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CD00011-16A6-493B-A205-B298EB097383}|App\\app.csproj|solutionrelative:app\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C022CB9C-F7E2-406D-9F47-6D72DBD35ECD}|Server\\server.csproj|c:\\users\\kacper\\desktop\\2rok\\c#\\tic tac toe\\server\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C022CB9C-F7E2-406D-9F47-6D72DBD35ECD}|Server\\server.csproj|solutionrelative:server\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CD00011-16A6-493B-A205-B298EB097383}|App\\app.csproj|c:\\users\\kacper\\desktop\\2rok\\c#\\tic tac toe\\app\\winner.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7CD00011-16A6-493B-A205-B298EB097383}|App\\app.csproj|solutionrelative:app\\winner.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "server.cs",
+              "DocumentMoniker": "C:\\Users\\Kacper\\Desktop\\2rok\\C#\\Tic Tac Toe\\Server\\server.cs",
+              "RelativeDocumentMoniker": "Server\\server.cs",
+              "ToolTip": "C:\\Users\\Kacper\\Desktop\\2rok\\C#\\Tic Tac Toe\\Server\\server.cs",
+              "RelativeToolTip": "Server\\server.cs",
+              "ViewState": "AQIAAOMAAAAAAAAAAAAAwLoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T10:04:07.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Kacper\\Desktop\\2rok\\C#\\Tic Tac Toe\\App\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "App\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Kacper\\Desktop\\2rok\\C#\\Tic Tac Toe\\App\\MainWindow.xaml.cs",
+              "RelativeToolTip": "App\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAI8AAAAAAAAAAAAuwLoAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T10:03:42.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Winner.xaml",
+              "DocumentMoniker": "C:\\Users\\Kacper\\Desktop\\2rok\\C#\\Tic Tac Toe\\App\\Winner.xaml",
+              "RelativeDocumentMoniker": "App\\Winner.xaml",
+              "ToolTip": "C:\\Users\\Kacper\\Desktop\\2rok\\C#\\Tic Tac Toe\\App\\Winner.xaml",
+              "RelativeToolTip": "App\\Winner.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-22T10:02:30.699Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
